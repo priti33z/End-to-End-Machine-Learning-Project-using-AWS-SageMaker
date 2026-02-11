@@ -40,9 +40,7 @@ Opened Amazon SageMaker
 Created SageMaker Studio (single-user setup)
 
 Launched JupyterLab environment
-
-📸 Add Screenshot:
-images/01-sagemaker-dashboard.png
+images/<img width="1919" height="1026" alt="SC37E1~1" src="https://github.com/user-attachments/assets/6259049a-2225-422f-b99a-d2a5a8ec2658" />
 images/02-studio-setup.png
 
 # Step 2: Loading the Dataset #
